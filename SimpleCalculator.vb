@@ -1,6 +1,8 @@
-﻿
-
-
+﻿'Ian Gunter
+'RCET 0265
+'Fall 2020
+'SimpleCalculator
+'https://github.com/IanGunter/Simple-Calculator.git
 
 
 Option Explicit On
