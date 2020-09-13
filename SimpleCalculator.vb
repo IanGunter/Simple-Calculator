@@ -66,7 +66,7 @@ Module SimpleCalculator
                     Console.WriteLine("Your answer: " & firstNumber * secondNumber)
                     Console.ReadLine()
 
-                ElseIf userResponse <> "1" And userResponse <> "2" Then
+                Else 'Else will cover anything that didn't evaluate to True above - TJR
                     Console.WriteLine("Human Error... Uhh try again....")
                     Console.ReadLine()
 
